@@ -1,5 +1,6 @@
 <?php 
-echo 'Hello World';
+
+echo "Heloo World!"
 
 echo phpinfo();
 
